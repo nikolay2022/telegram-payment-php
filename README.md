@@ -38,9 +38,6 @@
 ![image](https://user-images.githubusercontent.com/94001931/179213769-36a17fa1-46de-472f-ad40-cb5c140e8158.png)
 
 Готово! файл paymentexample.php готов. осталось поставить его на хостинг и установить вебхук для бота
+ВАЖНО! Вам понадобится SSL сертификат, иначе бот работать не будет
 
-5. Я рекомендую использовать хостинг beget(можете использовать и другой) https://beget.com/p979339 (подойдет самый начальный тариф Blog) за 280р/мес
-
-6. 
-
-Далее тебе надо установить вебхук с помощью https://api.telegram.org/bot(mytoken)/setWebhook?url=https://mywebpagetorespondtobot
+Установить вебхук с помощью: https://api.telegram.org/bot(mytoken)/setWebhook?url=https://youdomen/.../paymentexample.php
