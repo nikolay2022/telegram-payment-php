@@ -1,7 +1,9 @@
 # The most simple bot for accepting payments in telegrams
 Для начала работы тебе надо выполнить шаги:
 1. Создать бота с помощью https://t.me/BotFather
+
 ![Безымянныsdsdsй](https://user-images.githubusercontent.com/94001931/179210989-714cfb25-2234-471c-b914-0c637d87a28a.png)
+
 2. Открыть файл paymentexample.php и заменить там "YOU_BOT_TOKEN" на то, что мы получили от бота
 ![image](https://user-images.githubusercontent.com/94001931/179211371-c3f1a1fb-93cd-4938-ad62-9d92037422c3.png)
 3. Получить у https://t.me/BotFather платежный токен, для этого:
